@@ -1,4 +1,4 @@
-/* Hide mobile hamburguer menu */
+/* Hide mobile hamburger menu */
 @media only screen and (max-width: 400px) {
   .menu-links {
     display: none;
